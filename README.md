@@ -1,6 +1,6 @@
 ### Hi there 👋, Jamie Taalai
 #### Full Stack Development
-![Full Stack Development] https://github.com/jamzt/jamzt/blob/main/IMG_9108.jpeg
+(https://github.com/jamzt/jamzt/blob/main/IMG_9108.jpeg)
 
 
 
