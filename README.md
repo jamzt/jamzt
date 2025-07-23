@@ -17,7 +17,7 @@ I also used natural language processing (NLP) model in analyzing financial senti
 ## What's new:
 - 🔭 I am currently exploring LLM, especially in finance
 - 🔭 Improving the front end of Lytheon, switicnhing from StreamLit prototype to React
-- 🔭 Next on my list is Java
+  
 
 
 
