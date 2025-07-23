@@ -1,16 +1,23 @@
 ### Hi there 👋, Jamie Taalai
 #### Full Stack Development
 
-I am Jamie from Chicago. Originally, Central Asia, then South East Asia, California, Washington and now Illinois. I have a background in finance, accounting, investment. I love learning new skills, languages, frameworks and seeing where technology is headed. I got interested in Python and its use in Finance. Then I decided to become a software engineer and after earning the certification in Full Stack Engineering and doing an internship as a developer. I have realized I enjoy this career path better and find it more fulfilling. I love autonomy, problem-solving, working with data, development and design. Check out my portfolio and the dental clinic website I've built recently.  Excited for this journey!
+I come from a background in finance, accounting, and investing. Along the way, I got curious about Python and its applications in finance — and that curiosity turned into a passion for software engineering. After completing a Full Stack Engineering certification and interning as a developer, I realized this path felt not only more fulfilling but aligned with how I love to work: with autonomy, creativity, and real-world problem-solving.
+I love building tools that combine data, design, and impact and require systems-thinking. Recent project I am  really excited about is:
+
+Lytheon, is an AI-powered valuation platform that parses real-time financial and macroeconomic data (from SEC, FRED, Yahoo Finance), applies ARIMA forecasting, and dynamically selects valuation models (DCF, GGM, and my custom method) based on multi-dimensional company drivers.
+
+I also used natural language processing (NLP) model in analyzing financial sentiment, earnings call transcripts, and behavioral biases and trends.
 
 ## Skills and Experience:
 * ⚛️ React
 * ⠻ SQL, R
-* 💻 HTML, CCS, SCCS, JavaScript, Python
+* 💻 HTML, CCS, SCCS, JavaScript, Python, Java(learning)
 
 
 ## What's new:
-- 🔭 I am currently learning R programming and exploring LLM.
+- 🔭 I am currently exploring LLM, especially in finance
+- 🔭 Improving the front end of Lytheon, switicnhing from StreamLit prototype to React
+- 🔭 Next on my list is Java
 
 
 
